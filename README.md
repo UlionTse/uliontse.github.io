@@ -1,2 +1,3 @@
-# shinalone.github.com
+# shinalone.github.io
 First private web!
+ProjectName : shinalone.github.com

@@ -10,7 +10,7 @@ html, body {
 
 body {
 	align-items: center;
-  	background: url('earth.jpg') no-repeat center center ;/*background-color: #1D1F21; */
+  	background: url('http://i.imgur.com/LLh1Vei.jpg') no-repeat center center ;/*background-color: #1D1F21; */
 	display: flex;
 	font-family: 'Raleway', sans-serif;
 	flex-direction: column;
@@ -21,7 +21,7 @@ body {
 div.container {
 	align-items: center;
 	align-self: center;
-	background: url('earth.jpg') no-repeat center center ;
+	background: url('http://i.imgur.com/LLh1Vei.jpg') no-repeat center center ;
 	border-radius: 100%;
 	display: flex;
 	flex-direction: column;

@@ -10,7 +10,7 @@ html, body {
 
 body {
 	align-items: center;
-    background-color: #000000;
+    	background-color: #000000;
   	background: url('http://i.imgur.com/LLh1Vei.jpg') no-repeat center center ;/*background-color: #1D1F21; */
 	display: flex;
 	font-family: 'Raleway', sans-serif;

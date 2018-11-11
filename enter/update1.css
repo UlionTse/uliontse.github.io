@@ -11,7 +11,8 @@ html, body {
 body {
 	align-items: center;
     	background-color: #020001;
-	background: url('http://i.imgur.com/LLh1Vei.jpg') center center ;
+	background-size: 100% 100%;
+	background: url('http://i.imgur.com/LLh1Vei.jpg') no-repeat center center ;
 	display: flex;
 	font-family: 'Raleway', sans-serif;
 	flex-direction: column;
